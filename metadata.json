@@ -1,0 +1,7 @@
+{
+  "name": "Trending Slot Bd",
+  "description": "Trending Slot Bd - Bangladesh's #1 verified gaming and slot portal directory. Real-time platform rankings, VIP bonuses, instant payouts, and integrated SQL database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
